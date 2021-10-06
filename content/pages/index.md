@@ -4,10 +4,9 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: >-
-      This....
-    content: >-
-      dasdasdas
+    title: This....
+    content: |
+      **dsad**dasdasdas
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
