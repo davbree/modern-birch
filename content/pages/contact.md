@@ -7,7 +7,7 @@ sections:
     content: >-
       Let’s build something great together.<br>
 
-      Complete our contact form or send us an email at
+      Complete our cdsontact form or send us an email at
       [email@example.com](mailto:email@example.com).
 
 
