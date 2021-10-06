@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      This
+      This....
     content: >-
       dasdasdas
   - section_id: lorem-ipsum
