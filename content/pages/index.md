@@ -5,8 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      This is anaaa1!!!!!11a Award Winning Agency Based in San Francisco and Focusing on
-      Digital, Identity, and Print Design.!!
+      This
     content: >-
       dasdasdas
   - section_id: lorem-ipsum
