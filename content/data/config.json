@@ -11,7 +11,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Hom!!!!e",
+                "label": "Hom!!!===!e",
                 "url": "/",
                 "style": "link"
             },
@@ -19,22 +19,6 @@
                 "label": "Work",
                 "url": "/portfolio/",
                 "style": "link"
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false
             },
             {
                 "label": "Journal",
